@@ -21,4 +21,4 @@ jobs:
 
     - name: Build application
       working-directory: src
-      run: dotnet build
+      run: dotnet build app.cs
