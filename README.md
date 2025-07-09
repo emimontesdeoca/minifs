@@ -86,6 +86,7 @@ curl -X DELETE http://localhost:5000/greeting
 _For a full suite of examples (files, images, JSON, text, binary), see the [tests](./tests) directory._  
 ```
 
+
 ## Responses
 - `200 OK`: operation succeeded
 - `404 Not Found`: key does not exist
